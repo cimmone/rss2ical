@@ -332,7 +332,7 @@ if (strlen($url) == 0) {
     echo "<TITLE>RSS2iCal</TITLE>\n";
     echo "</HEAD>\n";
     echo "<BODY>\n";
-    echo "TEST View and/or Subscribe to RSS/RDF News Feeds in iCalendar (vCal 2.0) format.<P>\n";
+    echo "View and/or Subscribe to RSS/RDF News Feeds in iCalendar (vCal 2.0) format.<P>\n";
     echo "Subscriptions have only been tested with Apple's iCal application.<P>\n";
     echo "Once you have subscribed to a news feed in Apple's iCal, iSync can be used to synchronize it with your iPod, Palm, or cell phone.<P>\n";
     echo "<ul>\n";
